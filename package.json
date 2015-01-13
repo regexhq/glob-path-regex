@@ -1,0 +1,42 @@
+{
+  "name": "path-regex",
+  "description": "Regular expression for matching the parts of a file path.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/regexps/path-regex",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/regexps/path-regex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/regexps/path-regex/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/regexps/path-regex/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "expression",
+    "file",
+    "filepath",
+    "match",
+    "matching",
+    "path",
+    "regex",
+    "regexp",
+    "regular"
+  ]
+}
