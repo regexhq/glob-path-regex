@@ -42,7 +42,7 @@ var re = require('glob-path-regex');
 Install dev dependencies:
 
 ```bash
-node i -d && mocha
+npm i -d && npm test
 ```
 
 ## Contributing
