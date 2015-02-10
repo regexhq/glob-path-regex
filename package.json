@@ -7,10 +7,7 @@
     "name": "Jon Schlinkert",
     "url": "https://github.com/jonschlinkert"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/regexps/glob-path-regex.git"
-  },
+  "repository": "regexps/glob-path-regex",
   "bugs": {
     "url": "https://github.com/regexps/glob-path-regex/issues"
   },
