@@ -23,7 +23,7 @@ function matches(str) {
 
   while (len--) {
     var val = arr[i++];
-    if (val === undefined) val = null
+    if (val === undefined) val = null;
     res.push(val);
   }
   return res;
