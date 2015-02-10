@@ -1,4 +1,4 @@
-# glob-path-regex [![NPM version](https://badge.fury.io/js/glob-path-regex.svg)](http://badge.fury.io/js/glob-path-regex)
+# glob-path-regex [![NPM version](https://badge.fury.io/js/glob-path-regex.svg)](http://badge.fury.io/js/glob-path-regex) [![Build Status](https://travis-ci.org/regexps/glob-path-regex.svg)](https://travis-ci.org/regexps/glob-path-regex)
 
 > Regular expression for matching the parts of glob pattern.
 
